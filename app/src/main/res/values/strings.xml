@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="insert_first">Insert first number</string>
+    <string name="insert_second">Insert second number</string>
+    <string name="please_enter_first">Please enter first number</string>
+    <string name="please_enter_second">Please insert second number</string>
+</resources>
